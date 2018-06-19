@@ -14,12 +14,12 @@ app.use(bodyParser.urlencoded({
 
 app.use(express.static(process.cwd() + "/public"));
 
-var databaseUri = "mongodb://localhost/mongoosearticles";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoosearticles";
 
 if (process.env.MONGODB_URI) {
   mongoose.connect(process.env.MONGODB_URI);
 } else {
-  mongoose.connect(databaseUri);
+  mongoose.connect(MONGODB_URI);
 }
 
 var db = mongoose.connection;
