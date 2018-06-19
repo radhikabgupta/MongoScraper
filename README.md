@@ -9,13 +9,17 @@ A note can be created in the saved article by clicking on Create Notes button. O
 ## Screenshots
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-01.jpg)
 
+This app uses Cheerio to scrape the New York Times articles:
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-02.jpg)
 
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-03.jpg)
 
+<br/>Users can click on the link to take them to the corresponding NYT article, or click the 'Save Article' button to save the article:<br/>
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-04.jpg)
 
+<br/>Once an article is saved, the user has the option to add their own notes to the articles, or to remove them:<br/>
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-05.jpg)
 
+<br/>The user can also delete notes that are no longer needed by clicking on the 'X':<br/>
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-06.jpg)
 
