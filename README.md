@@ -6,6 +6,14 @@ The user can save the article by clicking on Save Article button. The saved arti
 
 A note can be created in the saved article by clicking on Create Notes button. Once the button is clicked a modal will get displayed for the user to create a note. As many number of notes can be created for a particular article, and the note is displayed for all the users who wants to view the note. A note can be deleted by clicking on the delte button on the side of the note.
 
+## Technologies Used
+- Node.js
+- MongoDB/ Mongoose
+- cheerio NPM Package
+- request NPM Package
+- express NPM Package
+- body-parser NPM Package
+
 ## Screenshots
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-01.jpg)
 
