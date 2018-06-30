@@ -31,3 +31,10 @@ This app uses Cheerio to scrape the New York Times articles:
 <br/>The user can also delete notes that are no longer needed by clicking on the 'X':<br/>
 ![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-06.jpg)
 
+## Installation
+clone the repository
+change into the new directory
+npm install
+
+## Running
+node server.js
