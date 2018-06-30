@@ -40,4 +40,4 @@ This app uses Cheerio to scrape the New York Times articles:
 - node server.js
 
 ## Assignment Instructions
-[Week-10 Assignment Instructions](https://github.com/radhikabgupta/liri-node-app/blob/master/week_10_homework_instructions.md)
+[Week-18 Assignment Instructions](https://github.com/radhikabgupta/MongoScraper/blob/master/homework_instructions.md)
